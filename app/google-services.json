@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "917819078068",
+    "firebase_url": "https://analyticssample-9b873.firebaseio.com",
+    "project_id": "analyticssample-9b873",
+    "storage_bucket": "analyticssample-9b873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917819078068:android:51b12b01dec7206f6beee1",
+        "android_client_info": {
+          "package_name": "com.walmart.analyticssample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917819078068-ngpoq1rjkh7cm6smfe3vtbp9e9aojfid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.walmart.analyticssample",
+            "certificate_hash": "3ec6c5ba971a1d6b3cb173e50bdf5e8e2db22108"
+          }
+        },
+        {
+          "client_id": "917819078068-4gtohvi31ej83r3qsq15aq2g0v4b949h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHRfiWad7vsWxG8nVmKjkji3N6-PIAqws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917819078068-4gtohvi31ej83r3qsq15aq2g0v4b949h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
